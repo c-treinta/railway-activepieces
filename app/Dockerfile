@@ -1,0 +1,1 @@
+FROM activepieces/activepieces:latest
