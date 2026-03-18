@@ -1,6 +1,6 @@
 # Deploy and Host Activepieces on Railway
 
-[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/TEMPLATE_ID)
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/activepieces-1)
 
 Activepieces is an open-source no-code automation platform that lets you connect apps and automate workflows without writing code. It is a self-hostable alternative to Zapier and Make, built with TypeScript and designed for both individuals and teams.
 
